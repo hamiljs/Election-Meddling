@@ -6,7 +6,7 @@ Twiter based, anonymous (Non API-dependant),  psycological operations proof of c
 
 * Feed Geolocation specific usernames.
 * Perform Topic analysis on user's tweets
-* Perform sentiment analysys on userś tweets
+* Perform sentiment analysis on userś tweets
 
 Topic analysis + sentiment analysis will be used to determine the user's political position.
 
@@ -23,4 +23,4 @@ The program currently employs Textblob's default naive bayes clasifier for senti
 
 
 
-[Russian interference in 2016 U.S. Elections](https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections)
+As seen in: [Russian interference in 2016 U.S. Elections](https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections)
