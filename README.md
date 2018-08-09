@@ -1,6 +1,6 @@
 # Election-Meddlng COMING-SOON
 
-Anonymous (Non API-dependant),  psycological operations POC for mass political profiling and persuation.
+Twiter based, anonymous (Non API-dependant),  psycological operations proof of concept for mass political profiling and persuation.
 
 ### PROGRAM DESIGN:
 
