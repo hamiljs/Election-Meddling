@@ -2,11 +2,11 @@
 
 Anonymous (Non API-dependant),  psycological operations POC for mass profiling and persuation.
 
-###PROGRAM DESIGN:
+### PROGRAM DESIGN:
 
-*Feed Geo specific usernames.
-*Perform Topic analysis on user's tweets
-*Perform sentiment analysys on userś tweets
+* Feed Geo specific usernames.
+* Perform Topic analysis on user's tweets
+* Perform sentiment analysys on userś tweets
 
 Topic analysis + sentiment analysis will be used to determine the user's political position.
 
