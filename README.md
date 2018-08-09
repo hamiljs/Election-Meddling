@@ -1,4 +1,4 @@
-# Election-Meddlng COMING-SOON
+# Election-Meddling COMING-SOON
 
 Twiter based, anonymous (Non API-dependant),  psycological operations proof of concept for mass political profiling and persuation.
 
