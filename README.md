@@ -5,7 +5,7 @@ Twiter based, anonymous (Non API-dependant),  psycological operations proof of c
 
 > Example output
 
-'''
+''' <pre>
        ___           ___                       ___      
       /\  \         /\  \          ___        /\__\     
      /::\  \       /::\  \        /\  \      /::|  |    
@@ -88,7 +88,7 @@ Drugs sentiment:                               0.1463888888888889
 War sentiment:                                 0.1733061354489926
 
 [*] Action: Send Pro-Blank propaganda.
-'''
+''' </pre>
 
 <a href="https://image.ibb.co/n0w80p/nolan2.png"></a>
 
