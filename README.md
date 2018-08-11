@@ -11,11 +11,11 @@ Twiter based, anonymous (Non API-dependant), artificial intelligence for PSYOPS/
 * P.O.S based Context-dependant word stemming.
 * Unsupervised topic recognition, tweet categorization.
 * Topic specific sentiment analisys to determine target's political orientation on the Noan chart.
-* Propaganda function call to influence target based on learnt behaviour.
+* (Optional) Propaganda function call to influence target based on learnt behaviour.
 
 ### Key concept:
 
-If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be sent - in some manner- to those who tend to the opposite (B) wing, and pro VOTE propaganda to those who tend to (A) wing, resulting in a higher proportion of voes for (A) wing. 
+If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be sent - in some manner- to those who tend to the opposite (B) wing, and pro VOTE propaganda to those who tend to (A) wing, resulting in a higher proportion of votes for (A) wing. 
 
 
 ### Example output:
