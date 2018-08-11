@@ -24,7 +24,7 @@ If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be s
 
 > python3.6 deploy.py -t potus -b left -c 100
 
-<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/n0w80p/nolan2.png" title="Nolan chart" alt="Nolan chart"></a>
+<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/hMDBMU/Figure_1.png" title="Nolan chart" alt="Nolan chart"></a>
 
 
 <pre>
@@ -77,9 +77,11 @@ If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be s
 772  Lucia Mutikani in Reuters: "U.S. consumer spen...  192  1002314283663941632 2018-05-31 22:22:01    3210    750   1
 773  The U.S. condemns the attacks by pro-governmen...  310  1002312027598217216 2018-05-31 22:13:04    7096   2072   1
 
-Percentage of positive tweets: 60.51282051282051%
-Percentage of neutral tweets: 23.974358974358974%
-Percentage de negative tweets: 15.512820512820513%
+Percentage of positive tweets:                60.51282051282051%
+Percentage of neutral tweets:                 23.974358974358974%
+Percentage de negative tweets:                15.512820512820513%
+Average subjectivity:                         5.0%
+
 
 
 Detected 116 mentions.
