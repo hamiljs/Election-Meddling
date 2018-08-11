@@ -2,13 +2,16 @@
 
 Twiter based, anonymous (Non API-dependant),  psycological operations proof of concept for mass political profiling and persuation.
 
-### PROGRAM DESIGN:
+### PROGRAM FLOW:
 
-* Feed Geolocation specific usernames.
-* Perform Topic analysis on user's tweets
-* Perform sentiment analysis on userś tweets
-
-Topic analysis + sentiment analysis will be used to determine the user's political position.
+* Unauthenticated twitter client downloads tweets from target username(s)
+* Supervised learning sentiment analysis is performed on the tweets to determine target's personality.
+* Tweet text tokenizing, character filtering.
+* Penn bank compliant part of speec tags recognition.
+* P.O.S based Context-dependant word stemming.
+* Unsupervised topic recognition, tweet categorization.
+* Topic specific sentiment analisys to determine target's political orientation on the Noan chart.
+* Propaganda function call to influence target based on learnt behaviour.
 
 ### Key concept:
 
@@ -36,7 +39,7 @@ If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be s
       \/__/                                   \/__/     
                   Red Team Intelligence               
 
-     https://github.com/zadewg/Election-Meddling  
+      https://github.com/zadewg/Election-Meddling  
 
 
 [*] Target: potus (Washington, D.C.) 23763183 followers
@@ -111,7 +114,7 @@ War sentiment:                                 0.1733061354489926
 
 ### TO DO:
 
-- Add topic analysis, propaganda function.
+- Code styling, optimization. Propaganda function.
 
 The program currently employs Textblob's default naive bayes clasifier for sentiment analysis. A far more advanced solution will be implemented soon.
 
