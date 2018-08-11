@@ -47,6 +47,7 @@ If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be s
 .
 .
 
+                                                Tweets  len                   ID                Date   Likes    RTs  SA
 751  .@realdonaldtrump: "We're meeting with the Cha...   94  1002633696086593536 2018-06-01 19:31:15   11748   2559   0
 752  Congratulations to Vice Admiral Karl Schultz o...  195  1002628738146865154 2018-06-01 19:11:33    5983   1009   1
 753  Admiral Paul Zukunft has done an outstanding j...  156  1002628407807619073 2018-06-01 19:10:15    5246    765   1
