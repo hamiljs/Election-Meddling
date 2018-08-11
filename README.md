@@ -122,4 +122,5 @@ The program currently employs Textblob's default naive bayes clasifier for senti
 
 ---
 
-AS SEEN IN: [Russian interference in 2016 U.S. Elections](https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections)
+AS SEEN IN: [Russian interference in 2016 U.S. Elections](https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections) :grin:
+
