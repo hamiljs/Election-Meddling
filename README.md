@@ -1,13 +1,13 @@
 # Election-Meddling COMING-SOON
 
-Twiter based, anonymous (Non API-dependant),  psycological operations proof of concept for mass political profiling and persuation.
+Twiter based, anonymous (Non API-dependant), artificial intelligence for PSYOPS/MOOTW mass political profiling and persuation.
 
 ### PROGRAM FLOW:
 
 * Unauthenticated twitter client downloads tweets from target username(s)
 * Supervised learning sentiment analysis is performed on the tweets to determine target's personality.
 * Tweet text tokenizing, character filtering.
-* Penn bank compliant part of speec tags recognition.
+* Penn bank compliant Part Of Speech tag recognition.
 * P.O.S based Context-dependant word stemming.
 * Unsupervised topic recognition, tweet categorization.
 * Topic specific sentiment analisys to determine target's political orientation on the Noan chart.
