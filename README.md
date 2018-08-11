@@ -2,8 +2,25 @@
 
 Twiter based, anonymous (Non API-dependant),  psycological operations proof of concept for mass political profiling and persuation.
 
+### PROGRAM DESIGN:
 
-> Example output
+* Feed Geolocation specific usernames.
+* Perform Topic analysis on user's tweets
+* Perform sentiment analysis on userś tweets
+
+Topic analysis + sentiment analysis will be used to determine the user's political position.
+
+### Key concept:
+
+If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be sent - in some manner- to those who tend to the opposite (B) wing, and pro VOTE propaganda to those who tend to (A) wing, resulting in a higher proportion of voes for (A) wing. 
+
+
+### Example output:
+
+> python3.6 deploy.py -t potus -b left -c 100
+
+<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/n0w80p/nolan2.png" title="Nolan chart" alt="Nolan chart"></a>
+
 
 <pre>
        ___           ___                       ___      
@@ -24,7 +41,7 @@ Twiter based, anonymous (Non API-dependant),  psycological operations proof of c
 
 [*] Target: potus (Washington, D.C.) 23763183 followers
 [*] Benefit left wing
-[*] Collecting ~all Tweets
+[*] Collecting ~100 Tweets
 
 .
 .
@@ -89,20 +106,6 @@ War sentiment:                                 0.1733061354489926
 
 [*] Action: Send Pro-Blank propaganda.
 </pre>
-
-<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/n0w80p/nolan2.png" title="Nolan chart" alt="Nolan chart"></a>
-
-### PROGRAM DESIGN:
-
-* Feed Geolocation specific usernames.
-* Perform Topic analysis on user's tweets
-* Perform sentiment analysis on userś tweets
-
-Topic analysis + sentiment analysis will be used to determine the user's political position.
-
-### Key concept:
-
-If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be sent - in some manner- to those who tend to the opposite (B) wing, and pro VOTE propaganda to those who tend to (A) wing, resulting in a higher proportion of voes for (A) wing. 
 
 
 ### TO DO:
