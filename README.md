@@ -1,4 +1,4 @@
-# Election-Meddling COMING-SOON
+# Election-Meddling 
 
 Twiter based, anonymous (Non API-dependant), artificial intelligence for PSYOPS/MOOTW mass political profiling and persuation.
 
