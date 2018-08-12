@@ -112,7 +112,7 @@ Labor Union sentiment:                         0
 Drugs sentiment:                               0.1463888888888889
 War sentiment:                                 0.1733061354489926
 
-[*] Action: Send Pro-Blank propaganda.
+[*] Action: Send Pro-Vote propaganda.
 </pre>
 
 
