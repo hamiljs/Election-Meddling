@@ -24,7 +24,7 @@ If wanted to benefit (A) wing over (B) wing, pro BLANK vote propaganda will be s
 
 > python3.6 deploy.py -t potus -b left -c 100
 
-<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/jYP7vp/colormap.png" title="Nolan chart" alt="Nolan chart"></a>
+<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/c46ikp/POTUSDEF.png" title="Nolan chart" alt="Nolan chart"></a>
 
 
 <pre>
