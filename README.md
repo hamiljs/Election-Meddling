@@ -1,6 +1,6 @@
-# Election-Meddling 
+# SPIN
 
-Twiter based, anonymous (Non API-dependant), artificial intelligence for PSYOPS/MOOTW mass political profiling and persuation.
+Twiter based, anonymous (Non API-dependant), artificial intelligence for PSYOPS/MOOTW mass political profiling and covert foreign persuation.
 
 ### PROGRAM FLOW:
 
